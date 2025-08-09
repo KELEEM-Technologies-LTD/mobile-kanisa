@@ -23,7 +23,6 @@ mobile.kanisa/
 
 ## Features
 
-- **Progressive Web App (PWA)**: Installable web application with offline capabilities
 - **Responsive Design**: Optimized for various screen sizes and devices
 - **Modern UI**: Built with Flutter's Material Design components
 - **Cross-Platform**: Runs on any modern web browser
@@ -63,7 +62,6 @@ This project is ready for deployment to any static web hosting service:
 - **Vercel**: Connect your repository and deploy
 - **GitHub Pages**: Push to a GitHub repository and enable Pages
 - **Firebase Hosting**: Use Firebase CLI to deploy
-- **AWS S3**: Upload files to an S3 bucket with static website hosting
 
 ## PWA Features
 
